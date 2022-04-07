@@ -227,7 +227,7 @@ Changes to be committed:
         new file:   img/01.png
 ```
 
-Confirmar nuestros cambios:
+Confirmar nuestros cambios en local:
 
 ```
 c:> git commit -m "Estableciendo los primeras pasos"
@@ -274,6 +274,11 @@ Consultar que repositorios remotos estan enlazados a nuestro repositorio local
 git remote -v
 ```
 
+Actualizamos el repositorio remoto (GitHub)
+
+```
+git push main
+```
 
 
 ### CONFIRMACION DE NUESTRO USUARIO DE GITHUB
