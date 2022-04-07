@@ -194,3 +194,16 @@ IR AL GITHUB -> COPIAR la ruta del repositorio de git
 
 ![](img\01.png)
 
+Establecemos la conexion
+
+```
+git remote add main https://github.com/BillyClassTime/FundamentosProgramacionEOI.git
+```
+
+
+
+CONFIRMACION DE NUESTRO USUARIO DE GITHUB
+
+PANTALLAZO
+
+
