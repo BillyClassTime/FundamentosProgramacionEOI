@@ -205,5 +205,3 @@ git remote add main https://github.com/BillyClassTime/FundamentosProgramacionEOI
 CONFIRMACION DE NUESTRO USUARIO DE GITHUB
 
 PANTALLAZO
-
-
