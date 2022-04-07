@@ -176,7 +176,7 @@ c:>git config --global user.name "BillyClassTime"
 ```
 
 ```
-c:>git config --global email="billy@billyclasstime.com" 
+c:>git config --global user.email="billy@billyclasstime.com" 
 ```
 
 2.6 Comprobar la configuración global previamente establecida
