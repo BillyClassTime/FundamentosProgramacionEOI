@@ -250,6 +250,8 @@ c:><caperta del proyecto>git status
 
 
 
+Recapitulación Viernes / Lunes
+
 
 
 
